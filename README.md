@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hey, This is Abraar. Welcome to my space! 
 
-<!--
-**Reinhardt7/Reinhardt7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+```zsh
+> $ python3 Reinhardt.py
+```
+<img align="left" src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" alt="stonks" width="180" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+```python
+
+class SoftwareEngineer:
+
+    def __init__(self):
+        self.name = "Abraar Reinhardt"
+        self.tools = ["Python", "C++", "Julia"]
+        self.learning = "Rust for Sytems Programming"
+        self.passsion = "The Art Of Software."
+        
+    def contact(self):
+        self.Discord = Abraar#0101
+        
+```
+
+---
+
+##### Hope you find something interesting here.
